@@ -1,0 +1,2 @@
+# journalApp
+JournalApplication
